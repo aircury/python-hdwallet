@@ -95,7 +95,7 @@ ELA = "ELA"
 # Energi
 NRG = "NRG"
 # Ethereum
-ETH = "ETH"
+ETH, ETHTEST = "ETH", "ETHTEST"
 # Europe Coin
 ERC = "ERC"
 # Evrmore
@@ -255,7 +255,7 @@ TOA = "TOA"
 # Thought AI
 THT = "THT"
 # TRX
-TRX = "TRX"
+TRX, TRXTEST = "TRX", "TRXTEST"
 # Twins
 TWINS, TWINSTEST = "TWINS", "TWINSTEST"
 # Ultimate Secure Cash
@@ -342,7 +342,7 @@ __all__ = [
     "EMC2",
     "ELA",
     "NRG",
-    "ETH",
+    "ETH", "ETHTEST",
     "ERC",
     "EVR", "EVRTEST",
     "EXCL",
@@ -422,7 +422,7 @@ __all__ = [
     "SYS",
     "TOA",
     "THT",
-    "TRX",
+    "TRX", "TRXTEST",
     "TWINS", "TWINSTEST",
     "USC",
     "UNO",

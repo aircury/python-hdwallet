@@ -273,7 +273,7 @@ This library simplifies the process of creating a new hierarchical deterministic
 | Einsteinium                                                       |        `EMC2`        |   Yes   |   No    |   No   |    41     |  `m/44'/41'/0'/0/0`   |
 | Elastos                                                           |        `ELA`         |   Yes   |   No    |   No   |   2305    | `m/44'/2305'/0'/0/0`  |
 | Energi                                                            |        `NRG`         |   Yes   |   No    |   No   |   9797    | `m/44'/9797'/0'/0/0`  |
-| [Ethereum](https://github.com/ethereum/go-ethereum)               |        `ETH`         |   Yes   |   No    |  Yes   |    60     |  `m/44'/60'/0'/0/0`   |
+| [Ethereum](https://github.com/ethereum/go-ethereum)               |        `ETH`         |   Yes   |   Yes    |  No   |    60     |  `m/44'/60'/0'/0/0`   |
 | Europe Coin                                                       |        `ERC`         |   Yes   |   No    |   No   |    151    |  `m/44'/151'/0'/0/0`  |
 | Exclusive Coin                                                    |        `EXCL`        |   Yes   |   No    |   No   |    190    |  `m/44'/190'/0'/0/0`  |
 | FIX                                                               |   `FIX`, `FIXTEST`   |   Yes   |   Yes   |   No   |    336    |  `m/44'/336'/0'/0/0`  |
@@ -352,7 +352,7 @@ This library simplifies the process of creating a new hierarchical deterministic
 | Syscoin                                                           |        `SYS`         |   Yes   |   No    |  Yes   |    57     |  `m/44'/57'/0'/0/0`   |
 | TOA Coin                                                          |        `TOA`         |   Yes   |   No    |   No   |    159    |  `m/44'/159'/0'/0/0`  |
 | Thought AI                                                        |        `THT`         |   Yes   |   No    |   No   |    502    |  `m/44'/502'/0'/0/0`  |
-| [Tron](https://github.com/tronprotocol/java-tron)                 |        `TRX`         |   Yes   |   No    |   No   |    195    |  `m/44'/195'/0'/0/0`  |
+| [Tron](https://github.com/tronprotocol/java-tron)                 |        `TRX`         |   Yes   |   Yes    |   No   |    195    |  `m/44'/195'/0'/0/0`  |
 | Twins                                                             | `TWINS`, `TWINSTEST` |   Yes   |   Yes   |   No   |    970    |  `m/44'/970'/0'/0/0`  |
 | Ultimate Secure Cash                                              |        `USC`         |   Yes   |   No    |   No   |    112    |  `m/44'/112'/0'/0/0`  |
 | Unobtanium                                                        |        `UNO`         |   Yes   |   No    |   No   |    92     |  `m/44'/92'/0'/0/0`   |

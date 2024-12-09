@@ -6191,6 +6191,54 @@ class UnobtaniumMainnet(Cryptocurrency):
     WIF_SECRET_KEY = 0xe0
 
 
+class USDCEthereumMainnet(EthereumMainnet):
+
+    NAME = "USDC (Ethereum)"
+    SYMBOL = "USDC"
+
+
+class USDCEthereumTestnet(EthereumTestnet):
+
+    NAME = "USDC (Ethereum)"
+    SYMBOL = "USDC"
+
+
+class USDCTronMainnet(TronMainnet):
+
+    NAME = "USDC (Tron)"
+    SYMBOL = "USDC"
+
+
+class USDCTronTestnet(TronTestnet):
+
+    NAME = "USDC (Tron)"
+    SYMBOL = "USDC"
+
+
+class USDTEthereumMainnet(EthereumMainnet):
+
+    NAME = "USDT (Ethereum)"
+    SYMBOL = "USDT"
+
+
+class USDTEthereumTestnet(EthereumTestnet):
+
+    NAME = "USDT (Ethereum)"
+    SYMBOL = "USDT"
+
+
+class USDTTronMainnet(TronMainnet):
+
+    NAME = "USDT (Tron)"
+    SYMBOL = "USDT"
+
+
+class USDTTronTestnet(TronTestnet):
+
+    NAME = "USDT (Tron)"
+    SYMBOL = "USDT"
+
+
 class VPNCoinMainnet(Cryptocurrency):
 
     NAME = "Virtual Cash"
